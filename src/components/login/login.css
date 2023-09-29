@@ -1,0 +1,81 @@
+.login {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 1000px;
+    margin: 10px auto;
+}
+
+.login h2 {
+    font-size: 32px;
+    margin-top: 200px;
+    text-align: center;
+    color: #ce1212;
+}
+
+.login .text-muted {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.login .form-group {
+    margin-bottom: 20px;
+}
+
+.login .input-field {
+    position: relative;
+}
+
+.login .input-field span {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 18px;
+    color: #555;
+    left: 10px;
+}
+
+.login .form-control {
+    border-radius: 10px;
+    padding-left: 40px;
+}
+
+.login .btn {
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.login .btn-block {
+    width: 100%;
+}
+
+.login .my-3 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.login .text-center {
+    text-align: center;
+}
+
+.login .text-muted a {
+    color: #ce1212;
+    text-decoration: none;
+}
+
+.login .text-muted a:hover {
+    text-decoration: underline;
+}
+
+.login .text-center.pt-3 {
+    padding-top: 30px;
+}
+
+.login .text-muted a {
+    color: #ce1212;
+    text-decoration: none;
+    font-weight: bold;
+}
